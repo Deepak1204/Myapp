@@ -1,0 +1,20 @@
+{
+  "projectType": [
+    "sap.watt.uitools.ide.fiori",
+    "sap.watt.uitools.ide.web",
+    "com.watt.common.builder.sapui5clientbuild"
+  ],
+  "build": {
+    "buildRequired": true,
+    "sourceFolder": "webapp",
+    "targetFolder": "dist",
+    "excludedFolders": [],
+    "excludedFiles": [],
+    "lastBuildDateTime": "Thu, 29 Sep 2016 05:56:35 GMT"
+  },
+  "hcpdeploy": {
+    "account": "p1941318117trial",
+    "name": "myapp",
+    "lastVersionWeTriedToDeploy": "1.0.0"
+  }
+}
